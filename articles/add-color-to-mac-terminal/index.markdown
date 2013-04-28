@@ -20,7 +20,7 @@
 
 ***info <i class="icon-info-sign icon-white">이 글은 다음의 URL을 참고해서 정리했다.</i>***
     
-    http://osxdaily.com/2012/02/21/add-color-to-the-terminal-in-mac-os-x/
+참고 URL : http://osxdaily.com/2012/02/21/add-color-to-the-terminal-in-mac-os-x/
 
 이 방법은 디렉토리, 파일, 실행가능, 심볼릭 링크 등의 다른 항목을 다른 색상으로 보이게 한다.
 
